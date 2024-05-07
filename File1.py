@@ -6,6 +6,6 @@ e = 3
 #didnt work but this line
 
 
-wtf
+#Version 1 of math branch
 
 b=4
